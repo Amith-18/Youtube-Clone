@@ -25,7 +25,7 @@ const Navbar = () => {
             <img src={upload_icon} alt=""></img>
             <img src={more_icon} alt=""></img>
             <img src={notification_icon} alt=""></img>
-            <img src={profile_icon} alt=""></img>
+            <img className='user-icon' src={profile_icon} alt=""></img>
         </div>
         
     </nav>
