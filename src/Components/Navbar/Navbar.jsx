@@ -22,10 +22,10 @@ const Navbar = () => {
         </div>
 
         <div className='nav-right flex-div'>
-            <img src="" alt=""></img>
-            <img src="" alt=""></img>
-            <img src="" alt=""></img>
-            <img src="" alt=""></img>
+            <img src={upload_icon} alt=""></img>
+            <img src={more_icon} alt=""></img>
+            <img src={notification_icon} alt=""></img>
+            <img src={profile_icon} alt=""></img>
         </div>
         
     </nav>
