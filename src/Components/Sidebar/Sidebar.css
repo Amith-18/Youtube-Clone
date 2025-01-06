@@ -1,6 +1,6 @@
 .sidebar{
     background: #fff;
-    width: 15%;
+    width: 16%;
     height: 100vh;
     position: fixed;
     top: 0;
@@ -13,3 +13,11 @@
     margin-right: 20px;
 }
 
+.side-links{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    width: fit-content;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
