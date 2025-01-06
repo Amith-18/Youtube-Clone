@@ -17,8 +17,37 @@ import cameron from '../../assets/cameron.png'
 
 const Sidebar = () => {
   return (
-    <div>
-      
+    <div className='sidebar'>
+      <div className="shortcut-links">
+        <div className="side-links">
+          <img src={home} alt="" /><p>Home</p>
+        </div>
+        <div className="side-links">
+          <img src={game_icon} alt="" /><p>Gaming</p>
+        </div>
+        <div className="side-links">
+          <img src={automobiles} alt="" /><p>Automobile</p>
+        </div>
+        <div className="side-links">
+          <img src={sports} alt="" /><p>Sports</p>
+        </div>
+        <div className="side-links">
+          <img src={entertainment} alt="" /><p>Entertainment</p>
+        </div>
+        <div className="side-links">
+          <img src={tech} alt="" /><p>Technology</p>
+        </div>
+        <div className="side-links">
+          <img src={music} alt="" /><p>Music</p>
+        </div>
+        <div className="side-links">
+          <img src={blogs} alt="" /><p>Blogs</p>
+        </div>
+        <div className="side-links">
+          <img src={news} alt="" /><p>News</p>
+        </div>
+        <hr />
+      </div>
     </div>
   )
 }
