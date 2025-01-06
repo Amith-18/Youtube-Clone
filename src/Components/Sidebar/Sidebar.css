@@ -21,3 +21,10 @@
     flex-wrap: wrap;
     cursor: pointer;
 }
+
+.sidebar hr{
+    border: none;
+    height: 1px;
+    background: #ccc;
+    width: 85%;
+}
