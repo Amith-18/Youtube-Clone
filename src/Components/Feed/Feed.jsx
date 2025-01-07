@@ -11,8 +11,11 @@ import thumbnail8 from '../../assets/thumbnail8.png'
 
 const Feed = () => {
   return (
-    <div>
-        
+    <div className='card'>
+        <img src={thumbnail1} alt="" />
+        <h2>Best Channel to learn coding that help you to be web developer</h2>
+        <h3>Amith</h3>
+        <p>222K Views &bull; 2 days ago</p>
     </div>
   )
 }
