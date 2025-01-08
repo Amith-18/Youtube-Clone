@@ -11,6 +11,7 @@ import user_profile from '../../assets/user_profile.jpg'
 const PlayVideo = () => {
   return (
     <div className='play-video'>
+        <video src={video1}></video>
     
     </div>
   )
