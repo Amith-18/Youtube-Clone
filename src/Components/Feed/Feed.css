@@ -6,6 +6,9 @@
     margin-top: 15px;
 }
 
+.card{
+    text-decoration: none;
+}
 
 .card img{
     width: 100%;
