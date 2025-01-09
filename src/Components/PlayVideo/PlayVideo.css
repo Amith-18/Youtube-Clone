@@ -21,3 +21,22 @@
     font-size: 14px;
     color: #5a5a5a;
 }
+
+.play-video-info img{
+    width: 20px;
+    margin-right: 10px;
+}
+
+.play-video-info span{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 15px;
+    /* gap: 10px; */
+}
+
+.play-video hr{
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 10px 0;
+}
