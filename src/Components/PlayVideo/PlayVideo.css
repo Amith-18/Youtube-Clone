@@ -57,3 +57,24 @@
     border-radius: 50%;
     margin-right: 15px;
 }
+
+.publisher div p{
+    color: #000;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.publisher div span{
+    font-size: 13px;
+    color: #5a5a5a;
+}
+
+.publisher button{
+    background: red;
+    border: none;
+    outline: none;
+    color: #fff;
+    padding: 8px 30px;
+    border-radius: 4px;
+    cursor: pointer;
+}
