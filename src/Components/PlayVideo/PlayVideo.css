@@ -40,3 +40,9 @@
     background: #ccc;
     margin: 10px 0;
 }
+
+.publisher{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
