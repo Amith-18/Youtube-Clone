@@ -78,3 +78,14 @@
     border-radius: 4px;
     cursor: pointer;
 }
+
+.vid-desc{
+    padding-left: 55px;
+    margin: 15px 0;
+}
+
+.vid-desc p{
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #5a5a5a;
+}
