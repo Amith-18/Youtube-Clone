@@ -35,8 +35,8 @@ const PlayVideo = () => {
                 <p>Channel that makes learning Easy</p>
                 <p>Subscribe Amith to watch More Tutorial about 3D printing</p>
                 <hr />
-                <h4>222 Comments</h4>
-                <div className="comments">
+                <h4>222 comment</h4>
+                <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
                         <h3>Jack <span>1 day ago</span></h3>
@@ -48,7 +48,7 @@ const PlayVideo = () => {
                         </div>
                     </div>
                 </div>
-                <div className="comments">
+                <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
                         <h3>Jack <span>1 day ago</span></h3>
@@ -60,7 +60,7 @@ const PlayVideo = () => {
                         </div>
                     </div>
                 </div>
-                <div className="comments">
+                <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
                         <h3>Jack <span>1 day ago</span></h3>
@@ -72,7 +72,7 @@ const PlayVideo = () => {
                         </div>
                     </div>
                 </div>
-                <div className="comments">
+                <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
                         <h3>Jack <span>1 day ago</span></h3>
@@ -84,7 +84,7 @@ const PlayVideo = () => {
                         </div>
                     </div>
                 </div>
-                <div className="comments">
+                <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
                         <h3>Jack <span>1 day ago</span></h3>
@@ -96,7 +96,7 @@ const PlayVideo = () => {
                         </div>
                     </div>
                 </div>
-                <div className="comments">
+                <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
                         <h3>Jack <span>1 day ago</span></h3>
@@ -108,7 +108,7 @@ const PlayVideo = () => {
                         </div>
                     </div>
                 </div>
-                <div className="comments">
+                <div className="comment">
                     <img src={user_profile} alt="" />
                     <div>
                         <h3>Jack <span>1 day ago</span></h3>
