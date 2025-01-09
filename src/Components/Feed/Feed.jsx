@@ -110,7 +110,6 @@ const Feed = () => {
                 <p>222K Views &bull; 2 days ago</p>
             </div>
 
-
         </div>
 
     )
