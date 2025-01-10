@@ -10,11 +10,50 @@ import thumbnail7 from '../../assets/thumbnail7.png'
 import thumbnail8 from '../../assets/thumbnail8.png'
 
 const Recommended = () => {
-  return (
-    <div>
-        
-    </div>
-  )
+    return (
+        <div className='recommended'>
+            <div className="side-video-list">
+                <img src={thumbnail1} alt="" />
+                <div className="vid-info">
+                    <h4>Best channel for 3d Printing</h4>
+                    <p>Amith</p>
+                    <p>222k views</p>
+                </div>
+            </div>
+            <div className="side-video-list">
+                <img src={thumbnail1} alt="" />
+                <div className="vid-info">
+                    <h4>Best channel for 3d Printing</h4>
+                    <p>Amith</p>
+                    <p>222k views</p>
+                </div>
+            </div>
+            <div className="side-video-list">
+                <img src={thumbnail1} alt="" />
+                <div className="vid-info">
+                    <h4>Best channel for 3d Printing</h4>
+                    <p>Amith</p>
+                    <p>222k views</p>
+                </div>
+            </div>
+            <div className="side-video-list">
+                <img src={thumbnail1} alt="" />
+                <div className="vid-info">
+                    <h4>Best channel for 3d Printing</h4>
+                    <p>Amith</p>
+                    <p>222k views</p>
+                </div>
+            </div>
+            <div className="side-video-list">
+                <img src={thumbnail1} alt="" />
+                <div className="vid-info">
+                    <h4>Best channel for 3d Printing</h4>
+                    <p>Amith</p>
+                    <p>222k views</p>
+                </div>
+            </div>
+        </div>
+    )
 }
 
 export default Recommended
